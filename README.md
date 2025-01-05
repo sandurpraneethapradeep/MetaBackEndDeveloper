@@ -33,4 +33,46 @@ How does a web browser work?
 - then comes domain name
 - and file path
 - A web browser is a software application that you use to browse the world wide web.
-- 
+- When you enter the URL and press enter, the web browser connects to another computer called the web server.
+- The web server responds by sending a webpage back to the server.
+
+Web Hosting
+- Renting space to store website files, hosting services and secure storage.
+- Shared hosting - cheapest, share memory/bandwidth with other websites. Best for small websites.
+- Virtual private service hosting - Indivisual VPS's. More expensive.
+- Dedicated hosting
+- Cloud hosting - website is run in cloud environment. Use many resources.
+
+Internet Protocols
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
