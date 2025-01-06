@@ -44,8 +44,30 @@ Web Hosting
 - Cloud hosting - website is run in cloud environment. Use many resources.
 
 Internet Protocols
+- IP V4 & IP V6
+- In IP V4, the address contains four octets
+- In IP V6, 8 octets
+- IP packet conatins the header and data(payload)
+- TCP - arrives in order and correctly. Like text and images
+- UDP - can arrive out of order and tolerate data loss.
 
-  
+HTTP Request
+- A method - GET, POST etc
+- Path
+- Version
+- Headers
+
+1. HTTP Method -
+   Describes the action the client must perform
+   GET - Retrieve information from given server
+   POST - Send data to the server
+   PUT - Updates server
+   DELETE - Removes the resource
+
+2. Path - where resource is stored
+3. Version - 1.1 and 1.0 are mostly used.
+   
+
 
 
 
